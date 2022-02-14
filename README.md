@@ -1,4 +1,4 @@
-# zappit-API
+# zappit-API Backend
 
 ```
 Back-end:- Django Rest Framework
